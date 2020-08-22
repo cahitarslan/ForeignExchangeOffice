@@ -1,0 +1,22 @@
+C:\Users\chtta\source\repos\ForeignExchangeOffice\bin\Debug\ForeignExchangeOffice.exe.config
+C:\Users\chtta\source\repos\ForeignExchangeOffice\bin\Debug\ForeignExchangeOffice.exe
+C:\Users\chtta\source\repos\ForeignExchangeOffice\bin\Debug\ForeignExchangeOffice.pdb
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.MainForm.resources
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.Properties.Resources.resources
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.csproj.GenerateResource.cache
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.csproj.CoreCompileInputs.cache
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.exe
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.pdb
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.AddForm.resources
+C:\Users\chtta\source\repos\ForeignExchangeOffice\obj\Debug\ForeignExchangeOffice.csprojAssemblyReference.cache
+C:\Users\chtta\source\githubrepos\New folder\bin\Debug\ForeignExchangeOffice.exe.config
+C:\Users\chtta\source\githubrepos\New folder\bin\Debug\ForeignExchangeOffice.exe
+C:\Users\chtta\source\githubrepos\New folder\bin\Debug\ForeignExchangeOffice.pdb
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.csprojAssemblyReference.cache
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.AddForm.resources
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.MainForm.resources
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.Properties.Resources.resources
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.csproj.GenerateResource.cache
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.csproj.CoreCompileInputs.cache
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.exe
+C:\Users\chtta\source\githubrepos\New folder\obj\Debug\ForeignExchangeOffice.pdb
